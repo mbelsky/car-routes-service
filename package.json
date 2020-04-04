@@ -1,0 +1,8 @@
+{
+  "name": "car-routes-service",
+  "version": "0.1.0",
+  "private": true,
+  "workspaces": ["apps/*"],
+  "author": "Max Belsky <public.belsky@gmail.com>",
+  "license": "MIT"
+}
