@@ -4,6 +4,7 @@
   "main": "client.js",
   "license": "MIT",
   "dependencies": {
+    "dotenv": "^8.2.0",
     "zeromq": "^5"
   }
 }
