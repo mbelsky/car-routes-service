@@ -7,6 +7,10 @@
   ],
   "author": "Max Belsky <public.belsky@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "client": "node apps/client",
+    "server": "node apps/server"
+  },
   "devDependencies": {
     "eslint": "^6.8.0",
     "prettier": "^2.0.2"
